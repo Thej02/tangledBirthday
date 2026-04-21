@@ -14,4 +14,4 @@ This project uses a **Maven** structure to manage a front-end invitation website
 
 ## 📜 How to Run
 1. Navigate to `src/main/resources/static/`
-2. Open `index.html` in any web browser.
+2. Open `index.html` in any web bro
